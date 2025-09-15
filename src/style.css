@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
 }
 
 body {
@@ -9,12 +10,11 @@ body {
   padding: 0;
 }
 
-
-.wrapper{
+.wrapper {
   min-height: 100vh;
+  padding: 40px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
   background: rgb(234, 234, 234);
 }
